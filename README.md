@@ -9,9 +9,9 @@ solutions/YYYY/MM/<problem-id>-<slug>/
 
 
 <!-- 
-mkdir -p Solution/array/Reverse_an_Array
-touch Solution/array/Reverse_an_Array/README.md
-touch Solution/array/Reverse_an_Array/solution.py
+mkdir -p Solution/array/Two_Sum
+touch Solution/array/Two_Sum/README.md
+touch Solution/array/Two_Sum/solution.py
 
 git add .
 git commit -m "2026-01-26: Two Sum"
