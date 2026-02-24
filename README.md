@@ -10,9 +10,9 @@ solutions/YYYY/MM/<problem-id>-<slug>/
 
 <!-- 
 linkedlist
-mkdir -p Solution/linkedlist/Reorder_List
-touch Solution/linkedlist/Reorder_List/README.md
-touch Solution/linkedlist/Reorder_List/solution.py
+mkdir -p Solution/linkedlist/Odd_Even_Linked_List
+touch Solution/linkedlist/Odd_Even_Linked_List/README.md
+touch Solution/linkedlist/Odd_Even_Linked_List/solution.py
 
 string
 mkdir -p Solution/string/Reorder_List
