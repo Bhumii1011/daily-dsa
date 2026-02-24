@@ -9,9 +9,20 @@ solutions/YYYY/MM/<problem-id>-<slug>/
 
 
 <!-- 
-mkdir -p Solution/array/Merge_k_Sorted_Lists
-touch Solution/array/Merge_k_Sorted_Lists/README.md
-touch Solution/array/Merge_k_Sorted_Lists/solution.py
+linkedlist
+mkdir -p Solution/linkedlist/Reorder_List
+touch Solution/linkedlist/Reorder_List/README.md
+touch Solution/linkedlist/Reorder_List/solution.py
+
+string
+mkdir -p Solution/string/Reorder_List
+touch Solution/string/Reorder_List/README.md
+touch Solution/string/Reorder_List/solution.py
+
+array
+mkdir -p Solution/array/Reorder_List
+touch Solution/array/Reorder_List/README.md
+touch Solution/array/Reorder_List/solution.py
 
 git add .
 git commit -m "2026-01-26: Two Sum"
