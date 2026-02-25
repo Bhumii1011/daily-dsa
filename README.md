@@ -24,6 +24,11 @@ mkdir -p Solution/array/Reorder_List
 touch Solution/array/Reorder_List/README.md
 touch Solution/array/Reorder_List/solution.py
 
+stack
+mkdir -p Solution/stack/Infix_to_Postfix
+touch Solution/stack/Infix_to_Postfix/README.md
+touch Solution/stack/Infix_to_Postfix/solution.py
+
 git add .
 git commit -m "2026-01-26: Two Sum"
 git push 
