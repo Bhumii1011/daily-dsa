@@ -29,6 +29,11 @@ mkdir -p Solution/stack/Infix_to_Postfix
 touch Solution/stack/Infix_to_Postfix/README.md
 touch Solution/stack/Infix_to_Postfix/solution.py
 
+queue
+mkdir -p Solution/queue/Implement_Queue_using_Stacks
+touch Solution/queue/Implement_Queue_using_Stacks/README.md
+touch Solution/queue/Implement_Queue_using_Stacks/solution.py
+
 git add .
 git commit -m "2026-01-26: Two Sum"
 git push 
