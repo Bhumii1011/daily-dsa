@@ -34,6 +34,11 @@ mkdir -p Solution/queue/Implement_Queue_using_Stacks
 touch Solution/queue/Implement_Queue_using_Stacks/README.md
 touch Solution/queue/Implement_Queue_using_Stacks/solution.py
 
+binary tree
+mkdir -p Solution/binary_tree/Diameter_of_Binary_Tree
+touch Solution/binary_tree/Diameter_of_Binary_Tree/README.md
+touch Solution/binary_tree/Diameter_of_Binary_Tree/solution.py
+
 git add .
 git commit -m "2026-01-26: Two Sum"
 git push 
