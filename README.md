@@ -39,6 +39,11 @@ mkdir -p Solution/binary_tree/Diameter_of_Binary_Tree
 touch Solution/binary_tree/Diameter_of_Binary_Tree/README.md
 touch Solution/binary_tree/Diameter_of_Binary_Tree/solution.py
 
+binary_search_tree
+mkdir -p Solution/binary_search_tree/Validate_Binary_Search_Tree
+touch Solution/binary_search_tree/Validate_Binary_Search_Tree/README.md
+touch Solution/binary_search_tree/Validate_Binary_Search_Tree/solution.py
+
 git add .
 git commit -m "2026-01-26: Two Sum"
 git push 
