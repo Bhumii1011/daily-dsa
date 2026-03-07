@@ -45,9 +45,15 @@ touch Solution/binary_search_tree/Validate_Binary_Search_Tree/README.md
 touch Solution/binary_search_tree/Validate_Binary_Search_Tree/solution.py
 
 graph
-mkdir -p Solution/graph/Number_of_Islands
-touch Solution/graph/Number_of_Islands/README.md
-touch Solution/graph/Number_of_Islands/solution.py
+mkdir -p Solution/graph/Minimum_Fuel_Cost_Report_Capital
+touch Solution/graph/Minimum_Fuel_Cost_Report_Capital/README.md
+touch Solution/graph/Minimum_Fuel_Cost_Report_Capital/solution.py
+
+backtracking
+mkdir -p Solution/backtracking/Generate_Parentheses
+touch Solution/backtracking/Generate_Parentheses/README.md
+touch Solution/backtracking/Generate_Parentheses/solution.py
+
 
 git add .
 git commit -m "2026-01-26: Two Sum"
