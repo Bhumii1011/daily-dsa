@@ -44,6 +44,11 @@ mkdir -p Solution/binary_search_tree/Validate_Binary_Search_Tree
 touch Solution/binary_search_tree/Validate_Binary_Search_Tree/README.md
 touch Solution/binary_search_tree/Validate_Binary_Search_Tree/solution.py
 
+graph
+mkdir -p Solution/graph/Number_of_Islands
+touch Solution/graph/Number_of_Islands/README.md
+touch Solution/graph/Number_of_Islands/solution.py
+
 git add .
 git commit -m "2026-01-26: Two Sum"
 git push 
