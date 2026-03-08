@@ -59,6 +59,11 @@ mkdir -p Solution/number_theory/Find_in_Mountain_Array
 touch Solution/number_theory/Find_in_Mountain_Array/README.md
 touch Solution/number_theory/Find_in_Mountain_Array/solution.py
 
+dynamic programming
+mkdir -p Solution/dynamic_programming/Number_Longest_Increasing_Subsequence
+touch Solution/dynamic_programming/Number_Longest_Increasing_Subsequence/README.md
+touch Solution/dynamic_programming/Number_Longest_Increasing_Subsequence/solution.py
+
 git add .
 git commit -m "2026-01-26: Two Sum"
 git push 

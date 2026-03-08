@@ -7,7 +7,7 @@
 #    def length(self) -> int:
 
 class Solution:
-    def findInMountainArray(self, target: int, mountainArr: 'MountainArray') -> int:
+    def findInMountainArray(self, target: int, mountainArr) -> int:
         n = mountainArr.length()
         left = 0
         right = n-1
