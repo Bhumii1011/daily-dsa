@@ -54,6 +54,10 @@ mkdir -p Solution/backtracking/Generate_Parentheses
 touch Solution/backtracking/Generate_Parentheses/README.md
 touch Solution/backtracking/Generate_Parentheses/solution.py
 
+number_theory
+mkdir -p Solution/number_theory/Find_in_Mountain_Array
+touch Solution/number_theory/Find_in_Mountain_Array/README.md
+touch Solution/number_theory/Find_in_Mountain_Array/solution.py
 
 git add .
 git commit -m "2026-01-26: Two Sum"
